@@ -1,0 +1,29 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: rgb(255, 208, 245);
+}
+
+#projects {
+  background-color: rgb(255, 208, 245);
+}
+
+footer {
+  background-color: #661966;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+#contact {
+  background-color: rgb(255, 208, 245);
+}
+
+h1 {
+  font-family: "inter", sans-serif;
+  font-size: 24px;
+}
